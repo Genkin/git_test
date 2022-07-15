@@ -1,2 +1,6 @@
 # git_test
-theOdinProject
+
+ Thanks to theOdinProject!  
+Hello Odin!  
+Hello Odin!  
+Hello Odin!  
